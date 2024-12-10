@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#FF2D3250</color>
+    <color name="secondary">#FF424769</color>
+    <color name="accent">#FF7077A1</color>
+    <color name="background">#FF1A1B26</color>
+    <color name="surface">#FF2A2B36</color>
+    <color name="text_primary">#FFEAEAEA</color>
+    <color name="text_secondary">#FFB4B4B4</color>
+    <color name="sphere_gradient_start">#FF6C63FF</color>
+    <color name="sphere_gradient_end">#FF2196F3</color>
+    <color name="ripple">#336C63FF</color>
+</resources> 
